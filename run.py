@@ -16,4 +16,4 @@ async def on_message(message):
     if message.content.startswith('!ping'):
         await client.send_message(message.channel, 'pong')
 
-client.run('MzU4MzYzMjczNjYzNjEwODgy.DMOO4A.ArwYgGK5jMSKyAwCVMoI_eZT2EU', bot=True)
+client.run('MzU4MzYzMjczNjYzNjEwODgy.DMOO4A.ArwYgGK5jMSKyAwCVMoI_eZT2EU')
