@@ -6,10 +6,10 @@ client = discord.Client()
 
 @client.event
 async def on_ready():
-    print('Logged in as')
+    print('DanTDM#1087')
     print(client.user.name)
     print(client.user.id)
-    print('------')
+    print('358363273663610882')
 
 @client.event
 async def on_message(message):
